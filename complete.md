@@ -1,5 +1,157 @@
 
-------- MODULE 7: COMMON LAW ---------
+------ MODULE 5 ------
+## Main Points
+### Types of Business Organisation
+- Sole Proprietorship
+- Partnership
+	- Standard Partnership
+	- Limited Partnership
+	- Limited Liability Partnership (LLP)
+- Corporation (Company)
+### Sole Proprietorship
+- Single owner
+	- The business and the owner are legally the same person
+- Easy to set up
+	- Minimal formalities
+	- Can operate under the owner's name or a trade name
+- Unlimited liability
+	- All personal assets are at risk if debts or lawsuits arise
+- Taxation
+	- Business profits taxed as personal income
+### Partnership
+- Definition
+	- Two or more persons carrying on a business together with a view to profit
+- Partnership Act (provincial)
+	- Provides default rules if no written partnership agreement
+- Joint ownership
+	- Partners share profits and losses
+	- Each partner can bind the other(s)
+- Unlimited liability
+	- Each partner is personally liable for partnership debts
+#### Limited Partnerships
+- At lease one general partner (unlimited liability) + one or more limited partners (liable only up to the amount they invest)
+- Limited partners have no management role
+	- Mainly investors
+#### Limited Liability Partnerships (LLP)
+- Partners are not liable for the negligence or wrongdoing of other partners
+- Typically requires professional liability insurance or other protections
+### Corporation
+- Separate legal entity
+	- It can own property, enter contracts, and sue/be sued in its own name
+- Owners are shareholders
+	- Liability usually limited to the amount invested in shares
+- Managed by directors and officers
+	- Directors owe fiduciary duties to the corporation
+- Taxation
+	- The corporation pays its own taxes
+	- Shareholders pay tax on dividends
+- Lifespan
+	- Continues beyond the death or withdrawal of any shareholder (unlimited life)
+- Registration
+	- Must file Articles of Incorporation federally or provincially
+### Comparing the Main Features
+
+| Feature              | Sole Proprietorship     | Partnership                   | Corporation                     |
+| -------------------- | ----------------------- | ----------------------------- | ------------------------------- |
+| Formation Complexity | Very simple             | Moderate                      | More complex (incorporation)    |
+| Liability            | Unlimited (personal)    | Unlimited (personal, jointly) | Limited to share capital        |
+| Management           | Owner-managed           | Partners share control        | Board of Directors, officers    |
+| Taxation             | Personal income         | Partners taxed personally     | Corporate tax + shareholder tax |
+| Lifespan             | Ends with owner's death | Ends on partner exit/death    | Perpetual (unless dissolved)    |
+
+---
+## Important Terms
+- 
+---
+## Related Notes
+- 
+
+
+
+----- MODULE 6 ------
+## Main Points
+### Sources of Law in Canada
+- Constitution
+	- Supreme law
+	- Empowers/parcels out legislative authority
+	- Includes the Constitution Acts (1867 and 1982) and the Charter of Rights and Freedoms
+- Legislation (Statutes/Acts)
+	- Created by federal or provincial parliaments
+		- For example, Environmental Act, Employment Standards Act, etc.
+- Regulations/By-laws
+	- Detailed rules made under authority of statutes
+- Common Law
+	- Judge-made law, based on precedent
+		- Quebec uses Civil Law for private matters
+### The Canadian Constitution
+- Constitution Act, 1867
+	- Established Canada's structure of government, dividing powers between federal and provincial levels
+- Constitution Act, 1982
+	- Includes the Charter of Rights and Freedoms, which protects fundamental rights
+		- For example, freedom of expression, equality rights, etc.
+- Division of Powers
+	- Federal
+		- Defence, criminal law, postal service, patents, etc.
+	- Provincial
+		- Property and civil rights, natural resources, professional regulation, etc.
+### The Canadian Court System
+- Supreme Court of Canada
+	- Final court of appeal
+	- Its decisions bind all lower courts
+- Federal Courts
+	- Federal Court (trial-level)
+	- Federal Court of Appeal
+	- Tax Court of Canada
+- Provincial Courts
+	- Provincial/Territorial Superior Courts (trials, major civil/criminal matters)
+	- Provincial/Territorial Courts (lower-level matters)
+	- Courts of Appeal (provincial/territorial)
+- Administrative Tribunals
+	- Specialised boards with quasi-judicial powers
+		- For example, Landlord and Tenant Board
+### Civil Law vs. Criminal Law
+- Civil Law
+	- Disputes between private parties
+		- For example, contract, tort, etc.
+	- Standard of proof
+		- "Balance of probabilities"
+	- Outcome
+		- Liable or not liable
+		- Typically compensation (damages)
+- Criminal Law
+	- Prosecution by the state for offences against society
+	- Standard of proof
+		- "Beyond a reasonable doubt"
+	- Outcome
+		- Guilty or not guilty
+		- Can involve fines, imprisonment, etc.
+### Common Law vs. Civil Law (Quebec)
+- Common Law
+	- Relies on judge-made precedents
+	- Used in all provinces except Quebec for private law matters
+- Civil Law (Quebec)
+	- Derived from the Napoleonic Code
+	- Comprehensive codified statutes that judges interpret
+### Key Takeaways
+- Charter of Rights and Freedoms
+	- Affects how governments make and apply laws
+	- Individuals can challenge unconstitutional laws
+- Court Hierarchy
+	- Lower courts bound by higher court decisions
+- Division of Powers
+	- Federal vs. provincial split
+		- Private law mostly provincial domain
+		- Some exceptions
+			- For example, aviation, rail, shipping, etc.
+---
+## Important Terms
+- 
+---
+## Related Notes
+- 
+
+
+------- MODULE 7 ---------
 ## Main Points
 ### Overview
 - Contract law is governed by
@@ -253,7 +405,7 @@
 
 
 
--------- 9 --------
+-------- MODULE 9 --------
 ## Main Points
 ### Risk and Responsibility
 #### Risk
@@ -347,7 +499,7 @@
 
 
 
--------- 10 --------
+-------- MODULE 10 --------
 ## Main Points
 ### Insurance
 #### Definition
@@ -415,7 +567,7 @@
 
 
 
--------- 11 --------
+-------- MODULE 11 --------
 ## Main Points
 ### Lien
 - Definition
@@ -481,7 +633,7 @@
 
 
 
--------- 12 --------
+-------- MODULE 12 --------
 ## Main Points
 ### Property Law
 - Real vs. Personal Property
@@ -541,7 +693,7 @@
 
 
 
--------- 13 --------
+------- MODULE 13 --------
 ## Main Points
 ### Introduction
 - Historical Context
@@ -612,10 +764,7 @@
 
 
 
-
-
-
------- 14 --------
+-------  MODULE 14 --------
 ## Main Points
 ### Introduction to OH&S
 - Purpose
